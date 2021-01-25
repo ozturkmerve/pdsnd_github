@@ -1,17 +1,16 @@
 ##MERVE OZTURK AKBULUT PROJECT
 
-### Date created
-Include the date you created this project and README file.
+Date created
+23.01.2021
 
-### Project Title
-Replace the Project Title
+Project Title
+MERVE OZTURK UDACITY PROJECT
 
-### Description
-Describe what your project is about and what it does
+Description
+This project done for udacity program.
 
-### Files used
-Include the files used
+Files used
+washington.csv chicago.csv new_york_city.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credits
+Especially thanks my husband to encourage me to do this project... LOVE YOU HONEY
